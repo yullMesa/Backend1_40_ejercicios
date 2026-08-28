@@ -6,7 +6,7 @@ public class Ejercicio5 {
 
     static void main() {
 
-//        creamos el objeto scanner  para leer las calificaciones por teclado
+//        se crea el objeto scanner  para leer las calificaciones por teclado
         Scanner leer = new Scanner(System.in);
 
 //        solicitamos las tres calificaciones al usuario

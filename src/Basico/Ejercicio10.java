@@ -10,6 +10,7 @@ public class Ejercicio10 {
 
 
 //        solcitamos la nota final al usuario
+        System.out.print("Ingresa la nota final: ");
         double nota = leer.nextDouble();
 
 

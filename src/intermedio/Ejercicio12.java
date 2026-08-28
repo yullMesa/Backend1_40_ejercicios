@@ -12,6 +12,7 @@ public class Ejercicio12 {
         double peso = leer.nextDouble();
 
 //        solcitamos la estatura en metros
+        System.out.println("Ingresa tu estatura en metros (ej: 1.75):");
         double estatura = leer.nextDouble();
 
 

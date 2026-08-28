@@ -15,9 +15,9 @@ public class Ejercicio7 {
 
 //        revisamos si el sobrante de dividir entre 2 es igual a 0 si es cero es par si no es impar
         if(numero %2 == 0 ){
-            System.out.println("El número" + numero + "es par.");
+            System.out.println("El número " + numero + " es par.");
         }else {
-            System.out.println("El número " + numero + "es impar." );
+            System.out.println("El número " + numero + " es impar." );
         }
 
     }

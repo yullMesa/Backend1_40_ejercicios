@@ -9,7 +9,7 @@ public class Ejercicio11 {
 
 
 //        solcitamos un número entero al usuario
-        System.out.println("Ingrese un npumero entero: ");
+        System.out.println("Ingrese un número entero: ");
         int numero = leer.nextInt();
 
 
